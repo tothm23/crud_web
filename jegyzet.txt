@@ -1,0 +1,4 @@
+Gyorsabb másolás:
+Alt + Shift + Lefele nyíl
+
+https://jsonplaceholder.typicode.com/
