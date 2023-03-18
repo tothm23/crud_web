@@ -2,5 +2,4 @@
 
 The first attempt to implement CRUD
 
-
 ![](./result.png)
